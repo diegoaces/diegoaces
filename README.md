@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![diegoaces's github stats](https://github-readme-stats.vercel.app/api?username=diegoaces&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegoaces)](https://github.com/diegoaces/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoaces)](https://github.com/diegoaces/github-readme-stats)
 
